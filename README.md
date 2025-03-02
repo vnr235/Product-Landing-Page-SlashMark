@@ -25,7 +25,7 @@ Available here: [Open Enterprise - Vítor F. Nery](https://open-enterprise-vitor
 
 ## Installation
 
-1. Clone the repository: `git clone git@github.com:vitorfnery/open-enterprise-website.git`
+1. Clone the repository: `git clone https://github.com/vnr235/Product-Landing-Page-SlashMark.git`
 2. Navigate to the project directory: `cd your_project`
 3. Install the dependencies: `npm install`
 
